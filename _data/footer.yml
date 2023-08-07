@@ -22,10 +22,10 @@
     #   new_window: true
 - links:
     - name: Github
-      link: https://facebook.com/cloudcannon/
+      link: https://github.com/Forge4Flow
       new_window: true
       social_icon: Github
     - name: Discord
-      link: https://twitter.com/cloudcannon/
+      link: https://discord.gg/gKuuhYh7
       social_icon: Discord
       new_window: true
