@@ -1,3 +1,15 @@
+- name: SDKs
+  link: https://forge4flow.gitbook.io/docs/
+  new_window: true
+  highlight: false
+- name: Docs
+  link: https://forge4flow.gitbook.io/docs/
+  new_window: true
+  highlight: false
+- name: API Reference
+  link: https://forge4flow.gitbook.io/docs/
+  new_window: true
+  highlight: false
 - name: Pricing
   link: /pricing/
   new_window: false
