@@ -1,8 +1,8 @@
-- name: SDKs
+- name: Docs
   link: https://forge4flow.gitbook.io/docs/
   new_window: true
   highlight: false
-- name: Docs
+- name: SDKs
   link: https://forge4flow.gitbook.io/docs/
   new_window: true
   highlight: false
@@ -10,10 +10,10 @@
   link: https://forge4flow.gitbook.io/docs/
   new_window: true
   highlight: false
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
+# - name: Pricing
+#   link: /pricing/
+#   new_window: false
+#   highlight: false
 - name: Blog
   link: /blog/
   new_window: false
@@ -26,11 +26,11 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: DAO Portal
   link: /
   new_window: true
-  highlight: false
-- name: Sign Up
+  highlight: true
+- name: Donate!!
   link: /
   new_window: true
   highlight: true
