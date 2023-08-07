@@ -3,7 +3,7 @@ date: 2023-08-07
 title: Introducing Forge4Flow
 categories:
   - general
-author_staff_member: BoiseITGuru
+author_staff_member: boiseitguru
 ---
 
 Let's face it building a DApp isn't the most dificult thing to develop... but building a secure DApp that delivers a great user experience is a mounumental task!! Building a DApp on Flow thankfully is much simplier thanks to the Resource Oriented Programming of Cadence, and the "user first" mentally that comes with that, but current tools still limit our ability to easily create great user experiences while maintaining security best practices.
