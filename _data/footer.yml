@@ -5,9 +5,9 @@
       link: /blog/
     - name: API Reference
       link: /about/
+- links:
     - name: Blog
       link: /contact/
-- links:
     - name: About
       link: /
       new_window: true
