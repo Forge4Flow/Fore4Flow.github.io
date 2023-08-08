@@ -3,11 +3,11 @@
   new_window: true
   highlight: false
 - name: SDKs
-  link: https://forge4flow.gitbook.io/docs/
+  link: https://forge4flow.gitbook.io/sdks/
   new_window: true
   highlight: false
 - name: API Reference
-  link: https://forge4flow.gitbook.io/docs/
+  link: https://forge4flow.gitbook.io/api/
   new_window: true
   highlight: false
 # - name: Pricing
