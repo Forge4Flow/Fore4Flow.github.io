@@ -22,15 +22,11 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
 # - name: DAO Portal
 #   link: /
 #   new_window: true
 #   highlight: true
-# - name: Donate!!
-#   link: /
-#   new_window: true
-#   highlight: true
+- name: Donate!!
+  link: /
+  new_window: true
+  highlight: true

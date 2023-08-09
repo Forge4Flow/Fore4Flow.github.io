@@ -8,18 +8,15 @@
 - links:
     - name: Blog
       link: /contact/
-    - name: About
-      link: /
-      new_window: true
-    - name: Contact
-      link: /
-      new_window: true
+    # - name: About
+    #   link: /
+    #   new_window: true
     # - name: DAO Portal
     #   link: /
     #   new_window: true
-    # - name: Donate!!
-    #   link: /
-    #   new_window: true
+    - name: Donate!!
+      link: /
+      new_window: true
 - links:
     - name: Github
       link: https://github.com/Forge4Flow
