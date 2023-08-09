@@ -6,21 +6,21 @@ categories:
 author_staff_member: boiseitguru
 ---
 
-With the release Forge4Flow-Core v.0.0.2, and the documentation being about 80-90% complete... I though it was time to introduce the Flow ecosystem to **Forge4Flow** a suite of open source tools _forge_ secure DApps with great user experiences on the Flow Blockchain.
+With the release Forge4Flow-Core v.0.0.2, and the documentation being about 80-90% complete. I though it was time to introduce the Flow ecosystem to **Forge4Flow** a suite of open source tools _forge_ secure DApps with great user experiences on the Flow Blockchain.
 
-Let's face it building a DApp isn't the most dificult thing to develop... but building a secure DApp that delivers a great user experience is a mounumental task!! Building a DApp on Flow thankfully is much simplier thanks to the Resource Oriented Programming of Cadence, and the "user first" mentally that comes with that, but current tools still limit our ability to easily create great user experiences while maintaining security best practices.
+Let's face it building a basic DApp isn't the most dificult thing to develop... but building a secure DApp that delivers a great user experience is a mounumental task!! Building a DApp on Flow thankfully is much simplier thanks to the Resource Oriented Programming of Cadence, and the "user first" mentally that comes with that, but current tools still limit our ability to easily create great user experiences while maintaining security best practices.
 
 ## Available and Coming Soon Tools
 
 ### Forge Manager - Available Sep. 2023
 
-Having access to great tools is one thing, being able to easily deploy and manage them something else entirely... A base Forge4Flow instance alone is 6 docker containers interacting across two isolated networks. It's our mission to ensure developers are able to spend their time building great products, not stressing that their infrastructure is deployed properly. **Forge Manager** is deployed directly from our easy to install command line tool, and it handle everything from ensuring docker is installed, ensuring SSL is configured, to updating and managing multiple instances for your different environments and applications. Forge Manager also hosts a pre-built **Admin Dashboard** giving you a central place manage everything, with the piece of mind everything was setup using security best practices.
+Having access to great tools is one thing, being able to easily deploy and manage them is something else entirely... A base Forge4Flow-Core instance alone is 3 docker containers. Forge4Flow's mission is to ensure developers are able to spend their time building great products, not stressing that their infrastructure is deployed properly. **Forge Manager** is deployed directly from our easy to install command line tool, and it handle everything from ensuring docker is installed, ensuring SSL is configured, to updating and managing multiple Forge4Flow instances for your different environments and applications. Forge Manager also hosts a pre-built **Admin Dashboard** giving you a central place manage everything, with the piece of mind everything was setup using security best practices.
 
 ### Admin Dashboard - Available Shortly
 
 The `Forge4Flow-Core` application provides powerful APIs to manage your environment, however, almost all systems need a way for humans to easily manage their users, roles, tenants, event alerts, etc. Rather than wasting time building an admin dashboard most DApps will be able to rely on our Admin Dashboard that provides access to the standard functions of Forge4Flow.
 
-Final work is being done to make the that admin dasbhoard compatible with v0.2.0 and is expected to be released within the week.
+Final work is being done to make the that admin dasbhoard compatible with v0.2.0 and is expected to be released within the next couple of weeks, if not sooner.
 
 ### Auth4Flow - Available Now
 
@@ -28,9 +28,9 @@ FCL acount-proofs are great for starting your Authentication scheme, but even Fl
 
 > FCL `account-proof` provides functionality to prove a user is in control of a Flow address. All other aspects of authentication, authorization and session management are up to the application.
 
-Authentication, authorization and session management are arguably the most important considerations for DApp development, but they are also the easiest to mess up, especially once we start mixing web2 and web3 technologies to improve the user experience (ie. Push notifications, API Access, etc). As it stands there is no standard solution for Identiy and Access Management of Web3 applications on Flow, until now that is...
+Authentication, authorization and session management are arguably the most important considerations for the development of any appliation, and also the easiest to mess up, especially once we start mixing web2 and web3 technologies to improve the user experience (ie. Push notifications, API Access, etc). As it stands there is no standard solution for Identiy and Access Management of Web3 applications on Flow, until now that is...
 
-Auth4Flow offers a simple, open-source Identity and Access Management platform that simplifies Web3 authentication. It supports various authorization schemes, including RBAC, FGAC, ReBAC, and NFT/FT/Event gated access.
+Auth4Flow offers a simple, open-source Identity and Access Management platform that simplifies Web3 authentication. It supports various authorization schemes, including RBAC, FGAC, ReBAC, and implements Event/NFT/FT gated access.
 
 ### Alerts4Flow - Available Now
 
@@ -51,4 +51,4 @@ It's my belief that open source tools, _paticularly those with a security focus_
 
 ## What's Next?
 
-Check out the docs to read more about the road to v0.1.0, and join the community [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas or get support.
+Check out the [docs](https://forge4flow.gitbook.io/docs/) to read more about the [road to v0.1.0](https://forge4flow.gitbook.io/docs/roadmap), and join the community [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas or get support.
