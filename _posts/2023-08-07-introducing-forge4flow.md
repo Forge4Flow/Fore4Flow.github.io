@@ -6,9 +6,9 @@ categories:
 author_staff_member: boiseitguru
 ---
 
-Let's face it building a DApp isn't the most dificult thing to develop... but building a secure DApp that delivers a great user experience is a mounumental task!! Building a DApp on Flow thankfully is much simplier thanks to the Resource Oriented Programming of Cadence, and the "user first" mentally that comes with that, but current tools still limit our ability to easily create great user experiences while maintaining security best practices.
+With the release Forge4Flow-Core v.0.0.2, I though it was time to introduce the Flow ecosystem to **Forge4Flow** a suite of open source tools _forge_ secure DApps with great user experiences on the Flow Blockchain.
 
-Today I want to introduce you to **Forge4Flow** a suite of open source tools _forge_ secure DApps with great user experiences on the Flow Blockchain.
+Let's face it building a DApp isn't the most dificult thing to develop... but building a secure DApp that delivers a great user experience is a mounumental task!! Building a DApp on Flow thankfully is much simplier thanks to the Resource Oriented Programming of Cadence, and the "user first" mentally that comes with that, but current tools still limit our ability to easily create great user experiences while maintaining security best practices.
 
 ## Available and Coming Soon Tools
 
@@ -48,3 +48,7 @@ Lack of mobile resources is a huge factor for their being very little Web3 Mobil
 ## Tokens, DAO, and Governance
 
 It's my belief that open source tools, _paticularly those with a security focus_, should be governaned colletively by the individual contributors and end users of the application, not some corporate entity. It is my goal to establish Forge4Flow as a DAO governed by the collective will, and in that spirit I welcome everyone that contributes to or uses any of these tools to join our [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas. Once a community has been established, a proposal on how to move forward will be presented to the community.
+
+## What's Next?
+
+Check out the docs to read more about the road to v0.1.0, and join the community a DAO governed by the collective will, and in that spirit I welcome everyone that contributes to or uses any of these tools to join our [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas or get support.
