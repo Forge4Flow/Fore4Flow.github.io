@@ -51,4 +51,4 @@ It's my belief that open source tools, _paticularly those with a security focus_
 
 ## What's Next?
 
-Check out the docs to read more about the road to v0.1.0, and join the community a DAO governed by the collective will, and in that spirit I welcome everyone that contributes to or uses any of these tools to join our [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas or get support.
+Check out the docs to read more about the road to v0.1.0, and join the community [Discord server](https://discord.gg/S85mDy2qxE) to share your ideas or get support.
