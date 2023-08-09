@@ -38,7 +38,7 @@ One of the biggest advantages of the Flow Blockchain is its ability to emmit eve
 
 ### Ecosystem SDKs - In Development
 
-Lack of mobile resources is a huge factor for their being very little Web3 Mobile apps. By releases ecosystem SDKs for multiple platforms we can lower the barrier to entry for new developers. We have scoped several SDKs to target for Swift (iOS).
+Lack of integration resources is a huge factor for their being very little Web3 apps. By releases ecosystem SDKs for multiple platforms we can lower the barrier to entry for new developers. We have scoped several SDKs to target for Swift (iOS).
 
 - SwiftIPFS-Image
 - FLOAT-Swift-SDK
